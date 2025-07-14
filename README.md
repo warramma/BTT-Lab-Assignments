@@ -1,2 +1,2 @@
 # BTT-Lab-Assignments
-Collection of Lab Assignments from BTT AI/ML course
+Collection of Labs & Assignments from BTT AI/ML course
